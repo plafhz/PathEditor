@@ -1,0 +1,9 @@
+c:\users\jose\documents\visual studio 2015\Projects\PathEditor\PathEditor\bin\Debug\PathEditor.exe.config
+c:\users\jose\documents\visual studio 2015\Projects\PathEditor\PathEditor\bin\Debug\PathEditor.exe
+c:\users\jose\documents\visual studio 2015\Projects\PathEditor\PathEditor\bin\Debug\PathEditor.pdb
+c:\users\jose\documents\visual studio 2015\Projects\PathEditor\PathEditor\obj\Debug\PathEditor.csprojResolveAssemblyReference.cache
+c:\users\jose\documents\visual studio 2015\Projects\PathEditor\PathEditor\obj\Debug\PathEditor.Properties.Resources.resources
+c:\users\jose\documents\visual studio 2015\Projects\PathEditor\PathEditor\obj\Debug\PathEditor.csproj.GenerateResource.Cache
+c:\users\jose\documents\visual studio 2015\Projects\PathEditor\PathEditor\obj\Debug\PathEditor.exe
+c:\users\jose\documents\visual studio 2015\Projects\PathEditor\PathEditor\obj\Debug\PathEditor.pdb
+c:\users\jose\documents\visual studio 2015\Projects\PathEditor\PathEditor\obj\Debug\PathEditor.Form1.resources
